@@ -1,0 +1,1039 @@
+
+
+#EXTM3U
+
+
+
+#EXTINF:-1 group-title="Arabic",Medi 1
+http://178.33.88.129:888/udp/239.102.0.252:1234
+#EXTINF:-1 group-title="Arabic",2M
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1 group-title="Arabic",Al Aoula 
+http://bit.ly/1TJhpGh
+#EXTINF:-1 group-title="Arabic",Arryadia 
+http://bit.ly/1UMlvQq
+#EXTINF:-1 group-title="Arabic",Almaghribia
+http://bit.ly/1hG9u0v
+#EXTINF:-1 group-title="Arabic",Tamazight
+http://bit.ly/1UMljAp
+#EXTINF:-1 group-title="Arabic",Athaqafia
+http://bit.ly/1K0aFTz
+#EXTINF:-1 group-title="Arabic",Assadissa
+http://bit.ly/1TJihL3
+
+
+#EXTINF:-1 group-title="Kids Arabic", Jeem Kids
+rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
+ 
+#EXTINF:-1 group-title="Kids Arabic",Agyal
+
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
+ #EXTINF:-1 group-title="Kids Arabic",AlJazeera Children
+ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+#EXTINF:-1 group-title="Kids Arabic",Mody Kids
+ http://178.33.88.129:888/udp/239.102.0.125:1234
+#EXTINF:-1 group-title="Kids Arabic",Koky Kids
+ http://178.33.88.129:888/udp/239.102.0.143:1234
+#EXTINF:-1 group-title="Kids Arabic",Stoon
+ http://178.33.88.129:888/udp/239.102.0.193:1234
+#EXTINF:-1 group-title="Kids Arabic",Baraem TV
+ http://178.33.88.129:888/udp/239.102.0.194:1234
+#EXTINF:-1 group-title="Kids Arabic",Toyour Aljannah
+ http://178.33.88.129:888/udp/239.102.0.215:1234
+#EXTINF:-1 group-title="Kids Arabic",Cartonn Network AR
+ http://178.33.88.129:888/udp/239.102.0.207:1234
+
+#EXTINF:-1 group-title="News Arabic",Aljazeera Mubasher
+ http://178.33.88.129:888/udp/239.102.0.158:1234
+#EXTINF:-1 group-title="News Arabic",Aljazeera
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+#EXTINF:-1 group-title="News Arabic",Al Arabia
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="News Arabic",Al Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="News Arabic",Mekammelin
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mekameleen
+#EXTINF:-1 group-title="News Arabic",Misr Alaan
+http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1344100_slen.m3u8
+
+#EXTINF:-1 group-title="News Arabic",Taghier TV
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+
+#EXTINF:-1 group-title="News Arabic",Alann TV
+http://195.244.40.204:8001/1:0:1:9:1FF:2BE:1040000:0:0:0:
+#EXTINF:-1 group-title="News Arabic",Halab Today TV
+rtmp://streaming.tootvs.com/8010/8010
+
+#EXTINF:-1 group-title="News Arabic",ANN 
+ rtmp://ns8.indexforce.com/ann/ann
+ #EXTINF:-1 group-title="News Arabic",BBC Arabia
+ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 group-title="News Arabic",Dzair News
+ http://178.33.88.129:888/udp/239.102.0.247:1234
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Arabic",Alnahar
+http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alnahar Alyoum
+http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alnahar Drama
+http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",ONTV Live
+http://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Almehwar
+http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Arabic",CBC Drama
+http://185.5.222.231:4242/bysid/5107
+#EXTINF:-1 group-title="Arabic",CBC
+http://185.5.222.231:4242/bysid/5108
+#EXTINF:-1 group-title="Arabic",CBC Extra
+http://185.5.222.231:4242/bysid/5109
+#EXTINF:-1 group-title="Arabic",CBC Sofra
+http://185.5.222.231:4242/bysid/5110
+#EXTINF:-1 group-title="Arabic",CBC+2
+http://185.5.222.231:4242/bysid/5104
+#EXTINF:-1 group-title="Arabic",Melody Aflam
+http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
+
+
+
+#EXTINF:-1 group-title="Aflam & Drama",Abu Dhabi Drama
+ http://178.33.88.129:888/udp/239.102.0.196:1234
+#EXTINF:-1 group-title="Aflam & Drama",Abu Dhabi
+ http://178.33.88.129:888/udp/239.102.0.197:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 1
+ http://178.33.88.129:888/udp/239.102.0.47:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Aflam 2 
+http://178.33.88.129:888/udp/239.102.0.48:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Cinema
+ http://178.33.88.129:888/udp/239.102.0.49:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Hikayat
+ http://178.33.88.129:888/udp/239.102.0.51:1234
+#EXTINF:-1 group-title="Aflam & Drama",ART Hikayat 2
+ http://178.33.88.129:888/udp/239.102.0.52:1234
+#EXTINF:-1 group-title="Aflam & Drama",MBC Misr
+ http://178.33.88.129:888/udp/239.102.0.45:1234
+#EXTINF:-1 group-title="Aflam & Drama",Almasrawiya
+ http://178.33.88.129:888/udp/239.102.0.95:1234
+#EXTINF:-1 group-title="Aflam & Drama",Star 2
+ http://178.33.88.129:888/udp/239.102.0.100:1234
+#EXTINF:-1 group-title="Aflam & Drama",Mafia Cinema 
+ http://178.33.88.129:888/udp/239.102.0.102:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alhayat 1
+ http://178.33.88.129:888/udp/239.102.0.108:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alhayat 2
+ http://178.33.88.129:888/udp/239.102.0.176:1234
+#EXTINF:-1 group-title="Aflam & Drama",Melody
+ http://178.33.88.129:888/udp/239.102.0.110:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alassema
+http://178.33.88.129:888/udp/239.102.0.238:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Masriya
+ http://178.33.88.129:888/udp/239.102.0.185:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Classic
+ http://178.33.88.129:888/udp/239.102.0.187:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Cinema
+ http://178.33.88.129:888/udp/239.102.0.188:1234
+#EXTINF:-1 group-title="Aflam & Drama",Rotana Khalijiah
+ http://178.33.88.129:888/udp/239.102.0.189:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alamaken Drama
+ http://178.33.88.129:888/udp/239.102.0.120:1234
+#EXTINF:-1 group-title="Aflam & Drama",Dream 
+ http://178.33.88.129:888/udp/239.102.0.122:1234
+
+#EXTINF:-1 group-title="Aflam & Drama",Nile Comedy
+ http://178.33.88.129:888/udp/239.102.0.209:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Drama
+ http://178.33.88.129:888/udp/239.102.0.210:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile Family
+ http://178.33.88.129:888/udp/239.102.0.212:1234
+#EXTINF:-1 group-title="Aflam & Drama",Moga Comedy
+ http://178.33.88.129:888/udp/239.102.0.133:1234
+#EXTINF:-1 group-title="Aflam & Drama",Cinema
+ http://178.33.88.129:888/udp/239.102.0.145:1234
+#EXTINF:-1 group-title="Aflam & Drama",Panorama Comedy
+ http://178.33.88.129:888/udp/239.102.0.160:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alkahera Wennas 2
+ http://178.33.88.129:888/udp/239.102.0.161:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nile TV
+ http://178.33.88.129:888/udp/239.102.0.211:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alkahera
+ http://178.33.88.129:888/udp/239.102.0.116:1234
+#EXTINF:-1 group-title="Aflam & Drama",COC
+ http://178.33.88.129:888/udp/239.102.0.124:1234
+#EXTINF:-1 group-title="Aflam & Drama",Imagine Movies
+ http://178.33.88.129:888/udp/239.102.0.126:1234
+#EXTINF:-1 group-title="Aflam & Drama",Time Cinema
+ http://178.33.88.129:888/udp/239.102.0.109:1234
+#EXTINF:-1 group-title="Aflam & Drama",Time Comedy
+ http://178.33.88.129:888/udp/239.102.0.190:1234
+#EXTINF:-1 group-title="Aflam & Drama",KBC 
+ http://178.33.88.129:888/udp/239.102.0.94:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alwatan
+ http://178.33.88.129:888/udp/239.102.0.134:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alnahar Laki
+ http://178.33.88.129:888/udp/239.102.0.129:1234
+#EXTINF:-1 group-title="Aflam & Drama",beur 
+ http://178.33.88.129:888/udp/239.102.0.101:1234
+#EXTINF:-1 group-title="Aflam & Drama",L'Index Algerie
+http://178.33.88.129:888/udp/239.102.0.242:1234
+#EXTINF:-1 group-title="Aflam & Drama",Aschorouq HD
+ http://178.33.88.129:888/udp/239.102.0.127:1234
+#EXTINF:-1 group-title="Aflam & Drama",Dzair
+ http://178.33.88.129:888/udp/239.102.0.248:1234
+#EXTINF:-1 group-title="Aflam & Drama",Algerie
+ http://178.33.88.129:888/udp/239.102.0.203:1234
+#EXTINF:-1 group-title="Aflam & Drama",Algerie 3
+ http://178.33.88.129:888/udp/239.102.0.225:1234
+#EXTINF:-1 group-title="Aflam & Drama",Algerie 4
+ http://178.33.88.129:888/udp/239.102.0.142:1234
+#EXTINF:-1 group-title="Aflam & Drama",Algerie 5
+ http://178.33.88.129:888/udp/239.102.0.246:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alchorouk Algerie
+ http://178.33.88.129:888/udp/239.102.0.157:1234
+#EXTINF:-1 group-title="Aflam & Drama",Maan TV
+ http://178.33.88.129:888/udp/239.102.0.128:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alwataniya 2
+ http://178.33.88.129:888/udp/239.102.0.164:1234
+#EXTINF:-1 group-title="Aflam & Drama",Alhiwar Tunisie
+http://178.33.88.129:888/udp/239.102.0.165:1234
+#EXTINF:-1 group-title="Aflam & Drama",Hannibal
+ http://178.33.88.129:888/udp/239.102.0.166:1234
+#EXTINF:-1 group-title="Aflam & Drama",Nessma
+ http://178.33.88.129:888/udp/239.102.0.167:1234
+#EXTINF:-1 group-title="Aflam & Drama",Tunisie
+ http://178.33.88.129:888/udp/239.102.0.173:1234
+#EXTINF:-1 group-title="Aflam & Drama",Tunisia
+ http://178.33.88.129:888/udp/239.102.0.174:1234
+#EXTINF:-1 group-title="Aflam & Drama",Aljanoubiya
+ http://178.33.88.129:888/udp/239.102.0.168:1234
+#EXTINF:-1 group-title="Aflam & Drama",RAK TV
+ http://178.33.88.129:888/udp/239.102.0.131:1234
+#EXTINF:-1 group-title="Aflam & Drama",Addar
+ http://178.33.88.129:888/udp/239.102.0.149:1234
+#EXTINF:-1 group-title="Aflam & Drama",Almisriya 2
+ http://178.33.88.129:888/udp/239.102.0.208:1234
+#EXTINF:-1 group-title="Aflam & Drama",Sudan TV
+ http://178.33.88.129:888/udp/239.102.0.121:1234
+
+
+#EXTINF:-1 group-title="Arabic",Alfallujah TV
+http://livestream-f.akamaihd.net/4671269_4213685_72c2652e_1_446@334673
+#EXTINF:-1 group-title="Arabic",Alfajr TV
+rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1
+
+
+#EXTINF:-1 group-title="Arabic",Alasr Algerie
+http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alnahar Algerie
+http://5.135.135.126/endz/EnnaharTV_SD/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Arabic",Future TV
+rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
+#EXTINF:-1 group-title="Arabic",Aljadeed
+http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",MTV Liban
+rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+#EXTINF:-1 group-title="Arabic",NBN
+rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
+#EXTINF:-1 group-title="Arabic",OTV 
+http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Arabic",Qatar
+ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_171s.m3u8
+#EXTINF:-1 group-title="Arabic",Arrayan
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8?v=1342104684
+#EXTINF:-1 group-title="Arabic",Sharjah
+ rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+
+#EXTINF:-1 group-title="Arabic",Sharjah kalbaa
+rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv
+#EXTINF:-1 group-title="Arabic",Dubai 
+ http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Dubai Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic", Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Arabic",Noor Dubai
+ http://dmivll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic", Dubai ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic", Dubai Racing
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic", Dubai Sport
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arabic", Dubai Sport Premium
+http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Arabic",Aljazeera Doc
+ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 group-title="Arabic",Ajman TV
+http://77.67.34.22/AJMAN_TV?gmswf=702871368
+#EXTINF:-1 group-title="Arabic",Albadawiyah
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=albadawiyah
+#EXTINF:-1 group-title="Arabic",Royal Edhak
+http://50.7.120.138:2095/royal/royaledhak.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Arabic",Royal Secret
+http://50.7.120.138:2095/royal/royalsecrets.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Arabic",Aldafrah TV
+http://live.aldafrah.tv:1935/live/aldafrah3/playlist_b419993_w1375558218.m3u8
+#EXTINF:-1 group-title="Arabic",Alrai TV
+http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/chunklist_w1306710278.m3u8
+
+#EXTINF:-1 group-title="Arabic",Assaodia 1
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8?v=1342104684
+#EXTINF:-1 group-title="Arabic", Assaodia 2
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel03/_definst_/live/stream1.m3u8?v=1342104684
+#EXTINF:-1 group-title="Arabic",Alekhbariya 
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel01/_definst_/live.m3u8
+#EXTINF:-1 group-title="Arabic",Athaqafiya 
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live.m3u8
+#EXTINF:-1 group-title="Arabic",Aleqtisadiya 
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live.m3u8
+#EXTINF:-1 group-title="Arabic",Alriyadiya 
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live.m3u8
+#EXTINF:-1 group-title="Arabic",Aldanah
+http://94.127.209.149:8080/aldanah/playlist.m3u8?v=1342104684
+#EXTINF:-1 group-title="Arabic",Funoon TV
+ http://watan.tv/playlist_f.m3u8
+#EXTINF:-1 group-title="Arabic",Saltanat Oman
+rtsp://38.96.148.30:1935/live/omantv1
+
+
+#EXTINF:-1 group-title="Arabic",Bahrain
+http://iaa.flashmediacast.com:2387/live/Channel-55/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Bahrain 
+http://iaa.flashmediacast.com:2387/live/International/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Arabic",Kuwait 1
+http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv1_720/chunklist_w888294134.m3u8 
+#EXTINF:-1 group-title="Arabic",Kuwait 2
+http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv2_720/chunklist_w237563478.m3u8
+#EXTINF:-1 group-title="Arabic",Ethraa TV
+http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv5_480/chunklist_w1382948548.m3u8
+#EXTINF:-1 group-title="Arabic",KTV Arabe
+http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv6_480/chunklist_w1325530242.m3u8
+#EXTINF:-1 group-title="Arabic",Kuwait Plus
+http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv8_480/chunklist_w1745116227.m3u8
+#EXTINF:-1 group-title="Arabic",Kuwait Xtra
+http://stream03.fasttelco.net:1935/live/_definst_/MOI/LIVE_channels/ktv7_480/chunklist_w1544894510.m3u8
+
+#EXTINF:-1 group-title="Arabic",Al Kout TV
+rtmp://66.23.237.233:1935/alkout/alkout
+#EXTINF:-1 group-title="Arabic",Roya TV
+ http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
+
+
+
+#EXTINF:-1 group-title="Arabic", Syria Drama
+ rtmp://82.137.248.21:1935/Drama/DramaLive3
+#EXTINF:-1 group-title="Arabic", Syria
+ rtsp://82.137.248.16:1935/Sat/SatLive3
+
+#EXTINF:-1 group-title="Arabic", Sama Syria
+ rtmp://sama-tv.net/live/samatv
+
+#EXTINF:-1 group-title="Arabic", Syria Aloula
+ rtsp://82.137.248.21:1935/Aloula/AloulaLive3
+
+
+#EXTINF:-1 group-title="Arabic",Nour Echamm
+rtsp://82.137.248.21:1935/Nour/NourLive3
+#EXTINF:-1 group-title="Arabic",Syria Educ
+rtsp://82.137.248.20:1935/SEdu/SEduLive3
+#EXTINF:-1 group-title="Arabic",Ogarit TV
+rtsp://82.137.248.21:1935/Ugarit/UgaritLive
+
+
+#EXTINF:-1 group-title="Arabic",Albaghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+
+#EXTINF:-1 group-title="Arabic",Alquds
+http://178.33.88.129:888/udp/239.102.0.240:1234
+#EXTINF:-1 group-title="Arabic",Alaqsa
+http://144.76.98.131:1935/aqsatv/live/tv/chunklist_w1351771762.m3u8?v=1342104563
+#EXTINF:-1 group-title="Arabic",Al Sharqiya
+http://195.244.40.204:8001/1:0:1:3:1FF:2BE:1040000:0:0:0:
+
+
+
+
+#EXTINF:0 group-title="Arabic",Jordan
+ rtmp://stream2.joinvisions.net:1935/jorlive?gmswf=146983/jrtv
+#EXTINF:0 group-title="Arabic",7Stars TV
+rtmp://stream.7stars.tv/live/myStream
+
+
+
+#EXTINF:-1 group-title="Arabic",Talaqie
+ rtmp://82.137.248.20/Talaqie?gmswf=3160874596/TalaqieLive3
+ #EXTINF:-1 group-title="Arabic",Palestine
+ rtmp://vstream2.hadara.ps:1935/pbc/mp4:pbc_1
+#EXTINF:-1 group-title="Arabic",Palestine Today
+http://live.paltoday.tv:1935/paltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Arabic",Alfalastiniah
+rtmp://46.43.64.166:1935/flv/mp4:flv
+#EXTINF:-1 group-title="Arabic",Hona Al Quds
+rtmp://185.33.168.110/live/livestream
+
+#EXTINF:-1 group-title="Arabic",Libya TV
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1 group-title="Arabic",Alnabaa TV
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?
+
+
+
+#EXTINF:-1 group-title="Relegion Arabic",Alresalah
+http://74.50.103.199:1935/live/salare/chunklist.m3u8?wowzasessionid=1859714868
+#EXTINF:-1 group-title="Relegion Arabic",Iqraa TV
+http://fl1.viastreaming.net:1935/iqraatv/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="Relegion Arabic",Quran TV
+
+ http://46.245.160.224/mekke/mekke/playlist.m3u8
+
+#EXTINF:0 group-title="Relegion Arabic",Makkah TV
+rtmp://streamer11.elementssys.com:1935/mecca
+#EXTINF:-1 group-title="Relegion Arabic",Sunnah TV
+http://46.245.160.224/medine/medine/gmswf.m3u8
+ 
+#EXTINF:-1 group-title="Relegion Arabic",Wissal TV
+http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
+
+#EXTINF:-1 group-title="Relegion Arabic",Sila TV
+http://streamer11.elementssys.com:8080/selah/index.m3u8?v=1342111207
+#EXTINF:-1 group-title="Relegion Arabic",Tayba TV
+http://tayba.live.net.sa:1935/live/taybatv/chunklist_w164378222.m3u8
+#EXTINF:-1 group-title="Relegion Arabic",Assalamu Alayka
+rtmp://stream11.tv2webstream.com/live/salam
+#EXTINF:-1 group-title="Relegion Arabic",Alfath TV
+rtmp://livestreaming.itworkscdn.net/alfatehlive/fatehtv
+#EXTINF:-1 group-title="Relegion Arabic",Time Quran
+ http://178.33.88.129:888/udp/239.102.0.123:1234
+#EXTINF:-1 group-title="Relegion Arabic",Majd Quran
+ http://178.33.88.129:888/udp/239.102.0.144:1234
+#EXTINF:-1 group-title="Relegion Arabic",Alinsan
+ http://178.33.88.129:888/udp/239.102.0.147:1234
+#EXTINF:-1 group-title="Relegion Arabic",Azhari
+ http://178.33.88.129:888/udp/239.102.0.159:1234
+
+
+
+
+
+#EXTINF:-1 group-title="Arabic Music",Wanasah
+http://178.33.88.129:888/udp/239.102.0.130:1234
+#EXTINF:-1 group-title="Arabic Music",Aghanina
+http://178.33.88.129:888/udp/239.102.0.217:1234
+#EXTINF:-1 group-title="Arabic Music",Arabica
+http://178.33.88.129:888/udp/239.102.0.204:1234
+#EXTINF:-1 group-title="Arabic Music",Mazzika
+http://178.33.88.129:888/udp/239.102.0.183:1234
+#EXTINF:-1 group-title="Arabic Music",Musicplus 
+http://178.33.88.129:888/udp/239.102.0.113:1234
+#EXTINF:-1 group-title="Arabic Music",Melody 
+http://178.33.88.129:888/udp/239.102.0.110:1234
+#EXTINF:-1 group-title="Arabic Music",Aghani
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+#EXTINF:-1 group-title="Arabic Music",Hawacom
+rtsp://mobilestreaming.itworkscdn.com/hawacom/hawacomlive
+#EXTINF:-1 group-title="Arabic Music",Rotana Music
+ http://178.33.88.129:888/udp/239.102.0.186:1234
+
+
+
+
+#EXTINF:0 group-title="Sport",CANAL+ SPORT
+http://178.33.88.129:888/udp/239.102.0.55:1234
+#EXTINF:-1 group-title="Sport",Bein 1 HD FR
+ http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:-1 group-title="Sport",Bein 2 HD FR
+ http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:-1 group-title="Sport",Bein 3 HD FR
+ http://178.33.88.129:888/udp/239.102.0.22:1234
+#EXTINF:-1 group-title="Sport",Bein 4 HD
+ http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:-1 group-title="Sport",Bein 5 HD
+ http://178.33.88.129:888/udp/239.102.0.6:1234
+#EXTINF:-1 group-title="Sport",Bein 7 HD
+ http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:-1 group-title="Sport",Bein 8 HD
+ http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:-1 group-title="Sport",Bein 9 HD
+ http://178.33.88.129:888/udp/239.102.0.10:1234
+#EXTINF:-1 group-title="Sport",Bein 10 HD EN
+ http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:-1 group-title="Sport",Bein 11 HD EN
+ http://178.33.88.129:888/udp/239.102.0.12:1234
+#EXTINF:-1 group-title="Sport",Sky Sport HD2 DE
+ http://178.33.88.129:888/udp/239.102.0.24:1234
+#EXTINF:-1 group-title="Sport",ad sports 1
+ http://178.33.88.129:888/udp/239.102.0.28:1234
+#EXTINF:-1 group-title="Sport",ad sports 2
+ http://178.33.88.129:888/udp/239.102.0.29:1234
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="0045" group-title="Deutsch" tvg-logo="0045.png",[COLOR orange]Super RTL[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/superrtl_1@97463/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0046" group-title="Deutsch" tvg-logo="0046.png",[COLOR orangered]KiKA HD[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/kikahd_1@97423/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0043" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nickelodeon[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/nickcc_1@97455/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0048" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
+http://pebbles123-lh.akamaihd.net/i/ric_1@137780/master.m3u8|X-Forwarded-For=81.17.18.50
+
+
+#EXTINF:-1 tvg-id="0007" group-title="Deutsch" tvg-logo="0007.png",[COLOR orangered]ProSieben HD[/COLOR]
+http://pebbles119-lh.akamaihd.net/i/pro7chhd_1@135262/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0009" group-title="Deutsch" tvg-logo="0009.png",[COLOR orange]RTL II[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0005" group-title="Deutsch" tvg-logo="0005.png",[COLOR orangered]RTL HD[/COLOR]
+http://pebbles118-lh.akamaihd.net/i/rtlchhd_1@135257/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0006" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/sat1_1@97461/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0010" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/vox_1@97466/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0008" group-title="Deutsch" tvg-logo="0008.png",[COLOR orange]kabel eins[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/kabeleins_1@97453/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0041" group-title="Deutsch" tvg-logo="0041.png",[COLOR orange]TELE 5[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/tele5_1@97465/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0051" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]ProSieben Maxx[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/pro7maxx_1@97522/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0070" group-title="Deutsch" tvg-logo="0071.png",[COLOR orangered]ORF eins HD[/COLOR]
+http://pebbles101-lh.akamaihd.net/i/orf1hd_1@97416/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0072" group-title="Deutsch" tvg-logo="0073.png",[COLOR orangered]ORF 2 HD[/COLOR]
+http://pebbles101-lh.akamaihd.net/i/orf2hd_1@97417/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0096" group-title="Deutsch" tvg-logo="0096.png",[COLOR gold]ORF III[/COLOR]
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:-1 tvg-id="0075" group-title="Deutsch" tvg-logo="0076.png",[COLOR orangered]SRF 1 HD[/COLOR]
+http://pebbles106-lh.akamaihd.net/i/sf1hd_1@97426/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0077" group-title="Deutsch" tvg-logo="0078.png",[COLOR orangered]SRF zwei HD[/COLOR]
+http://pebbles106-lh.akamaihd.net/i/sf2hd_1@97427/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0079" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/sfinfo_1@97408/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0080" group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]3plus[/COLOR]
+http://pebbles114-lh.akamaihd.net/i/3plus_1@97489/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0127" group-title="Deutsch" tvg-logo="0127.png",[COLOR orangered]4plus HD[/COLOR]
+http://s155.embed-tv.com/nvnv5a/1031/index.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0001" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]Das Erste HD[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/daserstehd_1@97395/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0003" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/zdfhd_1@97431/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0011" group-title="Deutsch" tvg-logo="0012.png",[COLOR orangered]arte HD[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/artedehd_1@97394/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0013" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/3sathd_1@97393/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0031" group-title="Deutsch" tvg-logo="0031.png",[COLOR orange]ARD Alpha[/COLOR]
+http://pebbles123-lh.akamaihd.net/i/bralpha_1@137776/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0053" group-title="Deutsch" tvg-logo="0054.png",[COLOR orangered]ZDFneo HD[/COLOR]
+http://pebbles109-lh.akamaihd.net/i/zdfneohd_1@97434/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0055" group-title="Deutsch" tvg-logo="0056.png",[COLOR orangered]ZDFkultur HD[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/zdfkulturhd_1@97433/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0057" group-title="Deutsch" tvg-logo="0058.png",[COLOR orangered]ZDFinfo HD[/COLOR]
+http://pebbles108-lh.akamaihd.net/i/zdfinfohd_1@97432/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0059" group-title="Deutsch" tvg-logo="0060.png",[COLOR orangered]eins|plus HD[/COLOR]
+http://pebbles113-lh.akamaihd.net/i/einsplus_hd_1@97446/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0061" group-title="Deutsch" tvg-logo="0062.png",[COLOR orangered]eins.festival HD[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/einsfestivalhd_1@97422/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0063" group-title="Deutsch" tvg-logo="0064.png",[COLOR orangered]tagesschau24 HD[/COLOR]
+http://pebbles114-lh.akamaihd.net/i/tagesschau24_hd_1@97450/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0029" group-title="Deutsch" tvg-logo="0030.png",[COLOR orangered]Phoenix HD[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/phoenixhd_1@97428/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0032" group-title="Deutsch" tvg-logo="0033.png",[COLOR orangered]N24 HD[/COLOR]
+http://pebbles109-lh.akamaihd.net/i/n24hd_1@97436/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0034" group-title="Deutsch" tvg-logo="0034.png",[COLOR orange]n-tv[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/ntv_1@97405/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0106" group-title="Deutsch" tvg-logo="0107.png",[COLOR orangered]NDR Hamburg HD[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0017" group-title="Deutsch" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR]
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0020" group-title="Deutsch" tvg-logo="0020.png",[COLOR orangered]MDR HD[/COLOR]
+http://pebbles127-lh.akamaihd.net/i/mdrhd_1@180319/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0021" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0015.png",[COLOR orange]Der SR[/COLOR]
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0023" group-title="Deutsch" tvg-logo="0024.png",[COLOR orangered]SWR HD[/COLOR]
+http://pebbles107-lh.akamaihd.net/i/swrhd_1@97429/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0025" group-title="Deutsch" tvg-logo="0026.png",[COLOR orangered]HR HD[/COLOR]
+http://pebbles113-lh.akamaihd.net/i/hr_hd_1@97447/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0027" group-title="Deutsch" tvg-logo="0028.png",[COLOR orangered]RBB HD[/COLOR]
+http://pebbles114-lh.akamaihd.net/i/rbb_hd_1@97449/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0035" group-title="Deutsch" tvg-logo="0035.png",[COLOR orange]euronews[/COLOR]
+http://pebbles123-lh.akamaihd.net/i/euronewsde_1@137774/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0036" group-title="Deutsch" tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0037" group-title="Deutsch" tvg-logo="0037.png",[COLOR orangered]Sixx HD[/COLOR]
+http://s155.embed-tv.com/nvnv5a/1040/index.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0122" group-title="Deutsch" tvg-logo="0123.png",[COLOR orangered]ServusTV DE HD[/COLOR]
+http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0040" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL NITRO[/COLOR]
+http://pebbles106-lh.akamaihd.net/i/rtlnitro_1@97458/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0120" group-title="Deutsch" tvg-logo="0120.png",[COLOR orangered]JOIZ DE HD[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0044" group-title="Deutsch" tvg-logo="0044.png",[COLOR orange]Viva/Comedy Central[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/viva_1@97493/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0049" group-title="Deutsch" tvg-logo="0049.png",[COLOR orange]Eurosport[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0050" group-title="Deutsch" tvg-logo="0050.png",[COLOR orangered]SPORT1 HD[/COLOR]
+http://sport1-24x7-free-lh.streaming.sport1.de/i/24x7_SPORT1_FREE_1@324937/master.m3u8|X-Forwarded-For=92.122.51.27|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+#EXTINF:-1 tvg-id="0052" group-title="Deutsch" tvg-logo="0052.png",[COLOR orange]DMAX[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/dmax_1@97398/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0124" group-title="Deutsch" tvg-logo="0124.png",[COLOR orange]m�nchen.tv[/COLOR]
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0100" group-title="Deutsch" tvg-logo="0100.png",[COLOR orangered]blizz TV HD[/COLOR]
+http://lb.hd-livestream.de/live/DasneueTV/playlist.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0119" group-title="Deutsch" tvg-logo="0119.png",[COLOR red]Family TV FHD[/COLOR]
+http://83.169.58.38:1935/live/Stream3/playlist.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0103" group-title="Deutsch" tvg-logo="0103.png",[COLOR orange]Alex Berlin[/COLOR]
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/master.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0104" group-title="Deutsch" tvg-logo="0104.png",[COLOR orangered]NRW TV HD[/COLOR]
+http://streaming001.broadcast.tneg.de:1935/nrwtv/_definst_/nrwtv.stream/playlist.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0065" group-title="Deutsch" tvg-logo="0065.png",[COLOR orange]Deluxe Music[/COLOR]
+http://pebbles123-lh.akamaihd.net/i/deluxemusic_1@137777/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0066" group-title="Deutsch" tvg-logo="0067.png",[COLOR orangered]Anixe HD[/COLOR]
+http://pebbles111-lh.akamaihd.net/i/anixehd_1@97440/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0125" group-title="Deutsch" tvg-logo="0125.png",[COLOR gold]Deutsche Welle[/COLOR]
+http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0068" group-title="Deutsch" tvg-logo="0068.png",[COLOR orange]DW Europe[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/dwtv_1@97397/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0098" group-title="Deutsch" tvg-logo="0098.png",[COLOR olivedrab]DAF[/COLOR]
+rtmp://fms.daf.tmt.de:1935/live/ playpath=dafstream100 swfUrl=http://partner.anleger-fernsehen.de/20/ext_content/jwplayer.flash.swf live=true pageUrl=http://partner.anleger-fernsehen.de/
+#EXTINF:-1 tvg-id="0099" group-title="Deutsch" tvg-logo="0099.png",[COLOR gold]Welt der Wunder TV[/COLOR]
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/playlist.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="0069" group-title="Deutsch" tvg-logo="0069.png",[COLOR orange]k-tv[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/ktv_1@97400/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0097" group-title="Deutsch" tvg-logo="0097.png",[COLOR gold]ORF Sport+[/COLOR]
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:-1 tvg-id="0074" group-title="Deutsch" tvg-logo="0074.png",[COLOR orange]ATV[/COLOR]
+http://pebbles114-lh.akamaihd.net/i/atv_1@97491/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0126" group-title="Deutsch" tvg-logo="0126.png",[COLOR orange]gotv Music[/COLOR]
+http://stream1.gotv.at:1935/live/gotvlive_source/playlist.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:-1 tvg-id="0042" group-title="Deutsch" tvg-logo="0042.png",[COLOR orange]JOIZ CH[/COLOR]
+http://pebbles118-lh.akamaihd.net/i/joiz_1@135266/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0081" group-title="Deutsch" tvg-logo="0081.png",[COLOR orangered]S1 HD[/COLOR]
+http://pebbles117-lh.akamaihd.net/i/s1tvhd_1@135250/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0082" group-title="Deutsch" tvg-logo="0082.png",[COLOR orangered]TV24 HD[/COLOR]
+http://pebbles128-lh.akamaihd.net/i/tv24_hd_1@180322/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0083" group-title="Deutsch" tvg-logo="0084.png",[COLOR orangered]Tele Z�ri HD[/COLOR]
+http://pebbles128-lh.akamaihd.net/i/tzurich_hd_1@180321/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0085" group-title="Deutsch" tvg-logo="0085.png",[COLOR orange]Tele B�rn[/COLOR]
+http://pebbles119-lh.akamaihd.net/i/tbarn_1@135272/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0086" group-title="Deutsch" tvg-logo="0086.png",[COLOR orange]Tele Basel[/COLOR]
+http://pebbles119-lh.akamaihd.net/i/tbasel_1@135273/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0087" group-title="Deutsch" tvg-logo="0087.png",[COLOR orange]Tele Bielingue[/COLOR]
+http://pebbles120-lh.akamaihd.net/i/tbielingue_1@135280/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0088" group-title="Deutsch" tvg-logo="0088.png",[COLOR orange]Tele S�dostschweiz[/COLOR]
+http://pebbles119-lh.akamaihd.net/i/tsudost_1@135274/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0089" group-title="Deutsch" tvg-logo="0089.png",[COLOR orange]Tele Ostschweiz[/COLOR]
+http://pebbles118-lh.akamaihd.net/i/tost_1@135270/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0090" group-title="Deutsch" tvg-logo="0090.png",[COLOR orange]Tele 1[/COLOR]
+http://pebbles118-lh.akamaihd.net/i/t1_1@135267/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0091" group-title="Deutsch" tvg-logo="0091.png",[COLOR orange]Tele Top SH[/COLOR]
+http://pebbles120-lh.akamaihd.net/i/ttsh_1@135279/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0091" group-title="Deutsch" tvg-logo="0092.png",[COLOR orange]Tele Top TG[/COLOR]
+http://pebbles120-lh.akamaihd.net/i/tttg_1@135278/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0091" group-title="Deutsch" tvg-logo="0093.png",[COLOR orange]Tele Top ZH[/COLOR]
+http://pebbles119-lh.akamaihd.net/i/ttzh_1@135271/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0094" group-title="Deutsch" tvg-logo="0094.png",[COLOR orange]Tele M1 Ost[/COLOR]
+http://pebbles118-lh.akamaihd.net/i/tm1o_1@135268/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="0094" group-title="Deutsch" tvg-logo="0095.png",[COLOR orange]Tele M1 West[/COLOR]
+http://pebbles118-lh.akamaihd.net/i/tm1w_1@135269/master.m3u8|X-Forwarded-For=81.17.18.50
+
+
+
+
+
+
+#EXTINF:0 group-title="Fran�ais",Canal+ Cinema HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1501.m3u8
+#EXTINF:0 group-title="Fran�ais",TMC
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1406.m3u8
+#EXTINF:0 group-title="Fran�ais",NT1
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/1410.m3u8
+#EXTINF:0 group-title="Fran�ais",Cine+ Frisson HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2076.m3u8
+#EXTINF:0 group-title="Fran�ais",13Rue HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2079.m3u8
+#EXTINF:0 group-title="Fran�ais",Cin�+ premiere
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2071.m3u8
+#EXTINF:0 group-title="Fran�ais",OCS Max HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2074.m3u8
+#EXTINF:0 group-title="Fran�ais",OCS City HD
+http://iptv4.is-certified.com:8000/live/vincenzo/vincenzo/2073.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Fran�ais",Canal+ Emotion
+http://178.33.88.129:888/udp/239.102.0.105:1234
+#EXTINF:-1 group-title="Fran�ais",Canal+ D�cal�
+http://178.33.88.129:888/udp/239.102.0.56:1234
+#EXTINF:-1 group-title="Fran�ais",Canal+
+http://178.33.88.129:888/udp/239.102.0.57:1234
+#EXTINF:-1 group-title="Fran�ais",OCS Choc
+http://178.33.88.129:888/udp/239.102.0.75:1234
+#EXTINF:-1 group-title="Fran�ais",Canal+ Series
+http://178.33.88.129:888/udp/239.102.0.78:1234
+#EXTINF:-1 group-title="Fran�ais",SyFy 
+http://178.33.88.129:888/udp/239.102.0.86:1234
+#EXTINF:-1 group-title="Fran�ais", Premiere
+http://teleclub.fr/ch02.ts
+#EXTINF:-1 group-title="Fran�ais", West
+http://teleclub.fr/ch08.ts
+#EXTINF:-1 group-title="Fran�ais",T�va 
+http://178.33.88.129:888/udp/239.102.0.80:1234
+#EXTINF:-1 group-title="Fran�ais", TeLeToOn+ 
+http://supertv.livehost.fr/toonf/4466.m3u8
+#EXTINF:-1 group-title="Fran�ais", TVA
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?
+#EXTINF:-1 group-title="Fran�ais", Minimax
+http://tv.ut.cx/minimax.mp4
+#EXTINF:-1 group-title="Fran�ais", Club 1 
+http://teleclub.fr/club1.mp4
+#EXTINF:-1 group-title="Fran�ais", Cine Fil
+http://teleclub.fr/cinefil.mp4
+#EXTINF:-1 group-title="Fran�ais", Cinetoile
+http://teleclub.fr/cinetoile.mp4
+#EXTINF:-1 group-title="Fran�ais", RireTV
+http://teleclub.fr/ch11.ts
+#EXTINF:-1 group-title="Fran�ais", Cinq+ 
+http://teleclub.fr/cinqplus.mp4
+#EXTINF:-1 group-title="Fran�ais" , Weo HD
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1 group-title="Fran�ais", OUI TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+#EXTINF:-1 group-title="Fran�ais",SC  
+http://178.33.88.129:888/udp/239.102.0.79:1234
+#EXTINF:-1 group-title="Fran�ais", Documania
+http://teleclub.fr/ch04.ts
+#EXTINF:-1 group-title="Fran�ais", Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fran�ais", Science & Vie TV
+rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
+#EXTINF:-1 group-title="Fran�ais",Planete+ HD
+http://178.33.88.129:888/udp/239.102.0.83:1234
+#EXTINF:-1 group-title="Fran�ais",Planete+ Thalassa HD 
+http://178.33.88.129:888/udp/239.102.0.92:1234
+#EXTINF:-1 group-title="Fran�ais",National Geographic 
+http://178.33.88.129:888/udp/239.102.0.84:1234
+#EXTINF:-1 group-title="Fran�ais",Voyage
+http://178.33.88.129:888/udp/239.102.0.85:1234
+#EXTINF:-1 group-title="Fran�ais", Animaux HD 
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#EXTINF:-1 group-title="Fran�ais",Discovery
+http://178.33.88.129:888/udp/239.102.0.90:1234
+#EXTINF:-1 group-title="Fran�ais",Ushuaia 
+http://178.33.88.129:888/udp/239.102.0.91:1234
+
+#EXTINF:-1 group-title="Fran�ais", La chaine Normandie
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+
+
+#EXTINF:-1 group-title="Fran�ais",Disney 
+http://178.33.88.129:888/udp/239.102.0.88:1234
+#EXTINF:-1 group-title="Fran�ais",Cartoon Network 
+http://178.33.88.129:888/udp/239.102.0.89:1234
+#EXTINF:-1 group-title="Fran�ais",Cartoon+
+http://88.141.4.217:9005/5
+#EXTINF:-1 group-title="Fran�ais",MTV 
+http://178.33.88.129:888/udp/239.102.0.74:1234
+
+
+#EXTINF:0 group-title="Fran�ais", L'enorme 
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
+ 
+#EXTINF:0 group-title="Fran�ais", Gloubi
+http://teleclub.fr/gloubi.mp4 
+#EXTINF:0 group-title="Fran�ais", GONG
+rtsp://ec.playmedia.fr:1935/gong-base/live 
+
+#EXTINF:-1 tvg-id="0208" group-title="Fran�ais" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
+http://pebbles100-lh.akamaihd.net/i/m6hd_1@97421/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0233" group-title="Fran�ais" tvg-logo="0233.png",[COLOR orangered]RTL 9 HD[/COLOR]
+http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0201" group-title="Fran�ais" tvg-logo="0202.png",[COLOR orangered]TF1 HD[/COLOR]
+http://pebbles102-lh.akamaihd.net/i/tf1hd_1@97413/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0203" group-title="Fran�ais" tvg-logo="0204.png",[COLOR orangered]France 2 HD[/COLOR]
+http://pebbles100-lh.akamaihd.net/i/france2hd_1@97420/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0205" group-title="Fran�ais" tvg-logo="0205.png",[COLOR orange]France 3[/COLOR]
+http://pebbles100-lh.akamaihd.net/i/france3_1@97329/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0221" group-title="Fran�ais" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
+http://pebbles100-lh.akamaihd.net/i/france4_1@97330/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0207" group-title="Fran�ais" tvg-logo="0207.png",[COLOR orange]France 5[/COLOR]
+http://pebbles102-lh.akamaihd.net/i/france5_1@97351/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0206" group-title="Fran�ais" tvg-logo="0206.png",[COLOR orange]Canal+[/COLOR]
+http://pebbles101-lh.akamaihd.net/i/canalplus_1@97337/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0210" group-title="Fran�ais" tvg-logo="0211.png",[COLOR orangered]RTS Un HD[/COLOR]
+http://pebbles126-lh.akamaihd.net/i/rts1hd_1@114347/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0212" group-title="Fran�ais" tvg-logo="0213.png",[COLOR orangered]RTS Deux HD[/COLOR]
+http://pebbles102-lh.akamaihd.net/i/rts2hd_1@97415/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0214" group-title="Fran�ais" tvg-logo="0215.png",[COLOR orangered]arte HD[/COLOR]
+http://pebbles100-lh.akamaihd.net/i/artefrhd_1@97419/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0216" group-title="Fran�ais" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
+http://pebbles100-lh.akamaihd.net/i/d8_1@97328/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0217" group-title="Fran�ais" tvg-logo="0217.png",[COLOR orange]W9[/COLOR]
+http://pebbles101-lh.akamaihd.net/i/w9_1@97344/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0218" group-title="Fran�ais" tvg-logo="0218.png",[COLOR orange]TMC[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/tmc_1@97379/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0219" group-title="Fran�ais" tvg-logo="0219.png",[COLOR orange]NT 1[/COLOR] 
+http://pebbles108-lh.akamaihd.net/i/nt1_1@97528/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0220" group-title="Fran�ais" tvg-logo="0220.png",[COLOR orange]NRJ 12[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/nrj12_1@137759/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0222" group-title="Fran�ais" tvg-logo="0222.png",[COLOR orange]BFM TV[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/bfmtv_1@137750/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0235" group-title="Fran�ais" tvg-logo="0235.png",[COLOR orange]BFM Business[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/bfmb_1@137749/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0223" group-title="Fran�ais" tvg-logo="0223.png",[COLOR orange]i>T�l�[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/itele_1@137755/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0224" group-title="Fran�ais" tvg-logo="0224.png",[COLOR orange]D17[/COLOR]
+http://pebbles100-lh.akamaihd.net/i/d17_1@97327/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0225" group-title="Fran�ais" tvg-logo="0225.png",[COLOR orange]gulli[/COLOR]
+http://pebbles102-lh.akamaihd.net/i/gulli_1@97352/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0226" group-title="Fran�ais" tvg-logo="0226.png",[COLOR orange]France �[/COLOR]
+http://pebbles122-lh.akamaihd.net/i/franceo_1@137770/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0227" group-title="Fran�ais" tvg-logo="0227.png",[COLOR orangered]HD1 HD[/COLOR] 
+http://pebbles110-lh.akamaihd.net/i/hd1hd_1@97437/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0228" group-title="Fran�ais" tvg-logo="0228.png",[COLOR orangered]L'Equipe 21 HD[/COLOR]
+http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0229" group-title="Fran�ais" tvg-logo="0229.png",[COLOR orangered]6ter HD[/COLOR] 
+http://pebbles112-lh.akamaihd.net/i/6terhd_1@97443/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0230" group-title="Fran�ais" tvg-logo="0230.png",[COLOR orangered]Num�ro 23 HD[/COLOR]
+http://pebbles112-lh.akamaihd.net/i/n23hd_1@97444/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0231" group-title="Fran�ais" tvg-logo="0231.png",[COLOR orangered]RMC D�couverte HD[/COLOR]
+http://pebbles112-lh.akamaihd.net/i/rmchd_1@97445/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0232" group-title="Fran�ais" tvg-logo="0232.png",[COLOR orangered]Ch�rie 25 HD[/COLOR]
+http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0234" group-title="Fran�ais" tvg-logo="0234.png",[COLOR orange]TV5MONDE[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0236" group-title="Fran�ais" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/france24_1@137754/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0237" group-title="Fran�ais" tvg-logo="0237.png",[COLOR orange]euronews[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/euronews_1@137752/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0238" group-title="Fran�ais" tvg-logo="0238.png",[COLOR orange]Montagne TV[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/montagne_1@137758/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0239" group-title="Fran�ais" tvg-logo="0239.png",[COLOR orange]Cartoon Network[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/cn_1@137751/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0240" group-title="Fran�ais" tvg-logo="0240.png",[COLOR orange]TVM 3[/COLOR]
+http://pebbles104-lh.akamaihd.net/i/tvm3_1@97401/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0241" group-title="Fran�ais" tvg-logo="0241.png",[COLOR orange]rouge TV[/COLOR] 
+http://pebbles102-lh.akamaihd.net/i/rouge_1@97359/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0242" group-title="Fran�ais" tvg-logo="0242.png",[COLOR orange]canal 9[/COLOR]
+http://pebbles117-lh.akamaihd.net/i/c9_1@135252/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0243" group-title="Fran�ais" tvg-logo="0243.png",[COLOR orange]kto[/COLOR] 
+http://pebbles105-lh.akamaihd.net/i/kto_1@97495/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0244" group-title="Fran�ais" tvg-logo="0244.png",[COLOR orange]la t�l�[/COLOR]
+http://pebbles109-lh.akamaihd.net/i/latele_1@97539/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0245" group-title="Fran�ais" tvg-logo="0245.png",[COLOR orange]l�man bleu[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/lemanbleu_1@137757/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0246" group-title="Fran�ais" tvg-logo="0246.png",[COLOR orange]canal alpha[/COLOR]
+http://pebbles117-lh.akamaihd.net/i/caju_1@135253/master.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="0247" group-title="Fran�ais" tvg-logo="0247.png",[COLOR orange]canal alpha NE[/COLOR]
+http://pebbles117-lh.akamaihd.net/i/cane_1@135254/master.m3u8|X-Forwarded-For=81.17.18.51
+
+
+
+
+#EXTINF: -1 group-title="Espa�ol", ANTENA 3 HD 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title="Espa�ol",LA 1
+rtmp://cp358674.live.edgefcs.net/live/TVE-LA1-GL7@300841
+#EXTINF:-1 group-title="Espa�ol",LA 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 tvg-id="0247" group-title="Espa�ol",La Sexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="Espa�ol",Ultra Cine
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+
+#EXTINF:-1 group-title="Espa�ol",Tele 5
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
+#EXTINF:-1 tvg-id="0247" group-title="Espa�ol",Galicia
+http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
+#EXTINF:0 group-title="Espa�ol",TVI
+http://satznt.mine.nu:7002/tvi
+#EXTINF:0 group-title="Espa�ol",Baby TV
+http://satznt.mine.nu:7001/babytv
+#EXTINF:0 group-title="Espa�ol",Sport TV 1
+http://satznt.mine.nu:7002/sptv1
+#EXTINF:0 group-title="Espa�ol",HollyWood TV
+http://satznt.mine.nu:7001/hlw
+
+#EXTINF:-1 group-title="Espa�ol",Azteca 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:0 group-title="Espa�ol",MEGA
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:0 group-title="Espa�ol",Panda TV
+http://satznt.mine.nu:7002/panda
+#EXTINF:0 group-title="Espa�ol",Sport TV 2
+http://satznt.mine.nu:7003/sptv2
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="0415" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
+http://pebbles103-lh.akamaihd.net/i/bbc1hd_1@97412/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
+http://pebbles109-lh.akamaihd.net/i/bbc2hd_1@97435/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
+http://pebbles113-lh.akamaihd.net/i/bbc3_1@97575/master.m3u8|X-Forwarded-For=81.17.18.52
+
+#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
+http://pebbles126-lh.akamaihd.net/i/bbc4_hd_1@180211/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
+http://pebbles111-lh.akamaihd.net/i/itvhd_1@97442/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0411" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/itv2_1@137792/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0412" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/itv3_1@97494/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0413" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
+http://pebbles106-lh.akamaihd.net/i/itv4_1@97503/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0414" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
+http://pebbles111-lh.akamaihd.net/i/channel4hd_1@97441/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0416" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/channel5_1@137787/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0417" group-title="English" tvg-logo="0417.png",[COLOR orange]More4[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/more4_1@137795/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0418" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0419" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
+http://pebbles106-lh.akamaihd.net/i/fashiontv_1@97512/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0420" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
+http://pebbles113-lh.akamaihd.net/i/travelchannel_1@97576/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0421" group-title="English" tvg-logo="0421.png",[COLOR orangered]BBC News HD[/COLOR]
+http://pebbles127-lh.akamaihd.net/i/bbcnewshd_1@180318/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0422" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/bbcworld_1@97498/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0423" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN[/COLOR]
+http://pebbles105-lh.akamaihd.net/i/cnn_1@97501/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0424" group-title="English" tvg-logo="0424.png",[COLOR orange]CCTV News[/COLOR]
+http://pebbles101-lh.akamaihd.net/i/cctvnews_1@97342/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0425" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
+http://pebbles123-lh.akamaihd.net/i/aljazeera_1@137783/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0426" group-title="English" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
+http://pebbles124-lh.akamaihd.net/i/bloomberg_1@137785/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0427" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/cnbc_1@137788/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0428" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/nhkw_1@137796/master.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="0430" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
+http://pebbles106-lh.akamaihd.net/i/skynews_1@97511/master.m3u8|X-Forwarded-For=81.17.18.52
+
+
+
+
+
+#EXTINF:-1 tvg-id="0601" group-title="Italiano" tvg-logo="0602.png",[COLOR orangered]RSI LA 1 HD[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/rsila1hd_1@97410/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0603" group-title="Italiano" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/rsila2hd_1@97411/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0605" group-title="Italiano" tvg-logo="0605.png",[COLOR orange]Rai Uno[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/rai1_1@97382/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0606" group-title="Italiano" tvg-logo="0606.png",[COLOR orange]Rai Due[/COLOR]
+http://pebbles122-lh.akamaihd.net/i/rai2_1@137763/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0607" group-title="Italiano" tvg-logo="0607.png",[COLOR orange]Rai Tre[/COLOR]
+http://pebbles122-lh.akamaihd.net/i/rai3_1@137764/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0608" group-title="Italiano" tvg-logo="0608.png",[COLOR orange]Rai Gulp[/COLOR] 
+http://pebbles122-lh.akamaihd.net/i/raigulp_1@137765/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0609" group-title="Italiano" tvg-logo="0609.png",[COLOR orange]Rai Scoula[/COLOR] 
+http://pebbles122-lh.akamaihd.net/i/raiscuola_1@137768/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0610" group-title="Italiano" tvg-logo="0610.png",[COLOR orange]Rai Storia[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/raistoria_1@97389/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0611" group-title="Italiano" tvg-logo="0611.png",[COLOR orange]Rai Sport 1[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/raisport1_1@97387/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0612" group-title="Italiano" tvg-logo="0612.png",[COLOR orange]Rai Sport 2[/COLOR]
+http://pebbles122-lh.akamaihd.net/i/raisport2_1@137769/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0613" group-title="Italiano" tvg-logo="0613.png",[COLOR orange]Rai News[/COLOR]
+http://pebbles122-lh.akamaihd.net/i/rainews_1@137767/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0614" group-title="Italiano" tvg-logo="0614.png",[COLOR orange]Canale 5[/COLOR]
+http://pebbles121-lh.akamaihd.net/i/canale5_1@137760/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0615" group-title="Italiano" tvg-logo="0615.png",[COLOR orange]Italia 1[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/italia1_1@97381/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0616" group-title="Italiano" tvg-logo="0616.png",[COLOR orange]TV Moda[/COLOR]
+http://pebbles103-lh.akamaihd.net/i/tvmoda_1@97383/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0617" group-title="Italiano" tvg-logo="0617.png",[COLOR orange]LA7[/COLOR]
+http://pebbles122-lh.akamaihd.net/i/la7_1@137762/master.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="0618" group-title="Italiano" tvg-logo="0618.png",[COLOR orange]Tele Ticino[/COLOR]
+http://pebbles117-lh.akamaihd.net/i/tticino_1@135255/master.m3u8|X-Forwarded-For=81.17.18.53
+
+
+
+
+
+#EXTINF:0 group-title="Sky DE",Sky
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1510.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Cinema HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2383.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Cinema +1 HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2384.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Cinema +24 HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1608.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Cinema Hits HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2362.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Cinema Action HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2363.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Emotion 
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2381.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Comedy 
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2382.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Action HD
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2386.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 1
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2657.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 2
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2658.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 3
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2659.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 4
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2660.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 5
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/2661.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 6
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1507.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 7
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1508.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 8
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1509.m3u8
+#EXTINF:0 group-title="Sky DE",Sky Select 9
+http://tvservice.broke-it.net:8000/live/7jJk2b3L9A/PE1TmonARj/1595.m3u8
+
+
+
+
+
+
+
