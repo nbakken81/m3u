@@ -1,0 +1,130 @@
+#EXTM3U
+
+#EXTINF:-1, [B][COLOR red]G[/COLOR][COLOR white]A[/COLOR] [COLOR red]M[/COLOR][COLOR white]E[/COLOR][COLOR red] D[/COLOR][COLOR white]A[/COLOR][COLOR red]Y[/COLOR][/B]
+https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png
+#EXTINF:0, [B]Come back at game time and watch it here live![/B]
+https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png
+
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL Network SD
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8 
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL Network HD 1500k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1500k.m3u8
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL Network HD 2000k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL Network HD 5000k
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
+
+#EXTINF:-1, [B][COLOR red]W[/COLOR][COLOR white]E[/COLOR] [COLOR red]E[/COLOR][COLOR white]K[/COLOR][COLOR red] 1[/COLOR][/B] Sept 10-14
+http://canadiansportforlife.ca/sites/default/files/user_files/images/sports-day-logo-lg-en.png
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",PIT@NE 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091000_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",PIT@NE 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091000_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",PIT@NE 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091000_5000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",GB@CHI 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091300_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",GB@CHI 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091300_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",GB@CHI 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091300_5000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",SEA@STL 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091301_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",SEA@STL 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091301_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",SEA@STL 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091301_5000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CAR@JAC 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091302_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CAR@JAC 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091302_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CAR@JAC 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091302_5000k.m3u8  
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",MIA@WAS 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091303_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",MIA@WAS 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091303_2000k.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",MIA@WAS 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091303_5000k.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",IND@BUF 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091304_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",IND@BUF 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091304_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",IND@BUF 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091304_5000k.m3u8  
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CLE@NYJ 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091305_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CLE@NYJ 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091305_2000k.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CLE@NYJ 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091305_5000k.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",KC@HOU 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091306_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",KC@HOU 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091306_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",KC@HOU 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091306_5000k.m3u8  
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",NO@ARI 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091307_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",NO@ARI 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091307_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",NO@ARI 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091307_5000k.m3u8  
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",DET@SD 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091308_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",DET@SD 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091308_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",DET@SD 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091308_5000k.m3u8  
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",BAL@DEN 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091309_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",BAL@DEN 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091309_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",BAL@DEN 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091309_5000k.m3u8  
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CIN@OAK 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091310_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CIN@OAK 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091310_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",CIN@OAK 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091310_5000k.m3u8  
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",TEN@TB 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091311_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",TEN@TB 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091311_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",TEN@TB 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091311_5000k.m3u8  
+  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",NYG@DAL 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091312_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",NYG@DAL 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091312_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",NYG@DAL 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091312_5000k.m3u8  
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",PHI@ATL 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091400_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",PHI@ATL 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091400_2000k.m3u8  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",PHI@ATL 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091400_5000k.m3u8  
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",MIN@SF 1500k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091401_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",MIN@SF 2000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091401_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png",MIN@SF 5000k
+http://nflsvglagame2-i.akamaihd.net/hls/live/223207-b/NFL_Mobile/2015091401_5000k.m3u8
