@@ -1,8 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1, [B][COLOR red]G[/COLOR][COLOR white]A[/COLOR] [COLOR red]M[/COLOR][COLOR white]E[/COLOR][COLOR red] D[/COLOR][COLOR white]A[/COLOR][COLOR red]Y[/COLOR][/B]
-https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png
-
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL Network SD
 http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN.m3u8 
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20150809205413/logopedia/images/7/75/Nfl-network-logo.jpg",NFL Network HD 1500k
@@ -13,9 +9,3 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
 #EXTINF:-1 tvg-logo="http://windowsphonedaily.com/wp-content/uploads/2014/08/nfl-now-icon.png",NFL Now 5000k
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-
-
-#EXTINF:0, [B]All Game Links Are Down![/B]
-https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png
-#EXTINF:0, [B]Sorry Guys![/B]
-https://pbs.twimg.com/profile_images/378800000195786076/c85ce41771eb1cb01391c2a1a5a3942b.png
