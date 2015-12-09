@@ -180,3 +180,55 @@ http://fr978.edem.tv/iptv/AZAZZ72ELRUM5G/147/index.m3u8
 http://foro:cable@24.139.177.135:9981/stream/channelid/101264569?ticket=303E4FAD61D432A02E2B735DDDEB047A54C09D2F&profile=pass
 #EXTINF:-1,
 http://foro:cable@24.139.177.135:9981/stream/channelid/434575532?ticket=D3BEEFF3BFCFC0C6C2A6B15FDB8F3BE6F8857A25&profile=pass
+#EXTINF:-1,Jasmin TV HD (18+)
+http://j.mp/S_JasminTVHD_sly?.m3u8
+#EXTINF:-1,Ask TV (18+)
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,BSX (18+)
+http://46.105.116.159:1935/cellcast/encoder5/player.m3u8
+#EXTINF:-1,Babe Spotting (18+)
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,Babestation (18+)
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:-1,Babestation 2 (18+)
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_two2/chunklist.m3u8
+#EXTINF:-1,Babestation Blue (18+)
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,Babestation Xtra (18+)
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,Babystation Thai chat (18+)
+http://178.33.126.213:1935/thaichat/mpegts3.stream/.m3u8
+#EXTINF:-1,Babystation xTreme (18+)
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+#EXTINF:-1,Bella Club Luz (18+)
+http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
+#EXTINF:-1,FTV Hot (18+)
+http://46.249.213.93/iPhone/broadcast/ftvhot-tablet.3gp/ftvhot-tablet.3gp-mr648k.m3u8?trackingid=3971420000&os=desktop
+#EXTINF:-1,HOT SHOTS (18+)
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,Hot 100 (18+)
+http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp/hot100-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,LiveSex Latinas (18+)
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,MIAMI TV (18+)
+http://k4.usastreams.com:1935/miamitv/miamitv/playlist.m3u8
+#EXTINF:-1,MIAMI TV ESP (18+)
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1,Okadai (18+)
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Paradise TV (18+)
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Passie XXX (18+)
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1,Playboy Web Chat (18+)
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u
+#EXTINF:-1,Private (18+)
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1,Sex (18+)
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,Sexy Sat (18+)
+rtmp://81.89.48.215/xyz999wkz/sexysat.stream_360p
+#EXTINF:-1,Studio 66 (18+)
+http://46.105.116.159:1935/leved/studio66tv_channel2/playlist.m3u8
+#EXTINF:-1,Соблазн (18+)
+http://46.182.25.34:1935/tv/1420/playlist.m3u8
