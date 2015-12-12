@@ -171,6 +171,10 @@ http://fr978.edem.tv/iptv/AZAZZ72ELRUM5G/147/index.m3u8
 http://foro:cable@24.139.177.135:9981/stream/channelid/101264569?ticket=303E4FAD61D432A02E2B735DDDEB047A54C09D2F&profile=pass
 #EXTINF:-1,
 http://foro:cable@24.139.177.135:9981/stream/channelid/434575532?ticket=D3BEEFF3BFCFC0C6C2A6B15FDB8F3BE6F8857A25&profile=pass
+#EXTINF:-1, brasileirinhas
+brasileñas http://62.210.88.208:8081/brasileirinhas/brasileirinhas/chunks.m3u8?nimblesessionid=3316014&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNSAyOjMwOjEwIEFNJmhhc2hfdmFsdWU9NHU2ZWJ3NUlxRkhUMTE5dFVVYXB3UT09JnZhbGlkbWludXRlcz0zMDA= 
+#EXTINF:-1,sexyhot
+http://62.210.82.241:8081/sexhothd/sexhothd/chunks.m3u8?nimblesessionid=769643&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAxNSAyOjM2OjI4IEFNJmhhc2hfdmFsdWU9SXNUeWxuRVMxWThucjRUK2tDZ0ZZUT09JnZhbGlkbWludXRlcz0zMDA=
 #EXTINF:-1,euroctic tv
 rtmp://5.196.200.228:1939/live/ playpath=n187 swfUrl=http://ero-tv.org/uppod/uppod32.swf live=1 pageUrl=http://ero-tv.org/eurotic_tv_online/
 #EXTINF:-1,russiannight
