@@ -1,0 +1,36 @@
+
+#EXTM3U
+#PLAYLIST:NEWS CHANNELS IPTV - CODECS.COM
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (1080p)
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="News",CNN (720p)
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="News",CNN HD (720p) [Geo-blocked]
+http://212.5.144.156:8080/cnn/index.m3u8
+#EXTINF:-1 tvg-id="MSNOW.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png" group-title="News",MS NOW (432p)
+https://tvsen6.aynaott.com/msnbc/index.m3u8
+#EXTINF:-1 tvg-id="NBC.us@WGAL" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="General",NBC WGAL (720p)
+https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax2.us@SD" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="News", Newsmax 2 (1080p)
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" group-title="News",One America News Network (720p)
+http://23.237.104.106:8080/USA_OAN/index.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="News",Newsmax TV (720p)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsy.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png" group-title="News",Newsy (1080p)
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports",NFL Channel (720p)
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network (720p)
+http://198.58.104.90:8989/nfl/index.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="News",Scripps News (1080p)
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
+#EXTINF:-1 tvg-id="TheYoungTurks.us@SD" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="News",The Young Turks (720p)
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USATODAY.us@SD" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA TODAY (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW (1080p)
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
